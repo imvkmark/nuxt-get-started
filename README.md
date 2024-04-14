@@ -1,3 +1,9 @@
+<h1 align="center">Nuxt3 Get Started</h1>
+
+<p align='center'>
+  <a href="https://vue3-vant-mobile.netlify.app">Live Demo</a>
+</p>
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
